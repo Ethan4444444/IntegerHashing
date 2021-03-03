@@ -1,0 +1,4 @@
+Copyright 2021, All Rights Reserved. 
+
+This code may not be shared, redistributed, modified, or otherwise used for any purposes unless given explicit written permission by the author, 
+Ethan Pawl.
